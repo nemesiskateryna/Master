@@ -1,0 +1,17 @@
+# RStudio
+.Rproj.user/
+.Rhistory
+.RData
+.Ruserdata
+
+# Local datasets and analysis outputs
+/data/
+/results/
+
+# Archives and backup files
+*.tar.gz
+*.backup*
+*.incomplete_backup
+
+# macOS
+.DS_Store
